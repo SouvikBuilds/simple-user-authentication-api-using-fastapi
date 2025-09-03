@@ -1,0 +1,5 @@
+MONGO_URI = mongodb+srv://SouvikBuilds:password@cluster0.r5l5h1i.mongodb.net/UserAuthenticationDB?retryWrites=true&w=majority
+
+DB_NAME = UserAuthenticationDB
+
+COLLECTION_NAME = User
